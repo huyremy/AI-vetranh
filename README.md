@@ -3,3 +3,5 @@
 Đầu tiên vào python <br>
 
 Xong rồi gõ python3 draw.py<br>
+
+
